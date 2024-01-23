@@ -6,11 +6,11 @@ I have created a daily planner app that displays each hour of the current day as
 
 ## Technologies
 
-JavaScript 
-HTML
-CSS
-JqueryUI
-day.js
+* JavaScript 
+* HTML
+* CSS
+* JqueryUI
+* day.js
 
 ## Installation
 
