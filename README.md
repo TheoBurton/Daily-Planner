@@ -34,4 +34,4 @@ Entering text into a time-block and hittig the save button will create an event 
 
 ## License
 
-PLease refer to the License agreement in the repository root.
+Please refer to the License agreement in the repository root.
